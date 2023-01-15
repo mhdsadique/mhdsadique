@@ -7,7 +7,7 @@
    
    <img src='https://www.aaditritechnology.com/images/phpdevelopment.gif' alt='animation'></img>
         <a href="https://www.linkedin.com/in/muhammed-sadique-064385230/">
-    <img w='50px' src='https://yt3.ggpht.com/a/AATXAJwNDs73uwz2TI0tc7BnsBSVj6mmFQ0Go05fuQ=s900-c-k-c0xffffffff-no-rj-mo' alt='linkedIn'></img>   
+    <img width='50px'  src='https://yt3.ggpht.com/a/AATXAJwNDs73uwz2TI0tc7BnsBSVj6mmFQ0Go05fuQ=s900-c-k-c0xffffffff-no-rj-mo' alt='linkedIn'></img>   
       </a>
        
 <!-- **mhdsadique/mhdsadique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
