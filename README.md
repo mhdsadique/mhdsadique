@@ -1,13 +1,12 @@
 ### Hi there 👋
 
-### Hi there 👋
-
 
 
 <h3>I'm Muhammed Sadique</h3>
 <h3>Enthusiastic Full Stack Web Developer</h3>
    <img src='https://i1.wp.com/hungary.wherefor.org/wp-content/uploads/2018/07/digital-software-development.gif?fit=705%2C446&ssl=1' alt='animation'></img>
    <br/>
+   <h3 margin="auto" padding='30px'>Contact Me</h3>
         <a href="https://www.linkedin.com/in/muhammed-sadique-064385230/">
     <img width='45px'  src='https://yt3.ggpht.com/a/AATXAJwNDs73uwz2TI0tc7BnsBSVj6mmFQ0Go05fuQ=s900-c-k-c0xffffffff-no-rj-mo' alt='linkedIn'></img>   
       </a>
@@ -15,7 +14,7 @@
         <Image width="55px" src="https://www.bing.com/th?id=OIP.ZYBoGvR_bfdiAQLZZpVHQAHaFj&w=288&h=216&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2" alt="email"></Image>
         </a>
             <div id='skills'>
-              <h3 padding='30px'> Technical Skills</h3>
+              <h3 margin="auto" padding='30px'> Technical Skills</h3>
               <div textAlign='center' margin='auto' >
            <div   >
            <h2 padding='20px'>Frontend </h2>
@@ -84,6 +83,9 @@
         <img  width="50px" height="50px" src="https://www.bing.com/th?id=OSK.9fdede4794d05f5eec77fbad77985638&w=188&h=132&c=7&o=6&dpr=1.3&pid=SANGAM"  alt="react" srcset="" />
         </button>
               </div>
+              <div>
+                
+              </div>
             </div>      
 <!-- **mhdsadique/mhdsadique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
@@ -97,4 +99,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  -->
+
 
