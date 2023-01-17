@@ -11,32 +11,32 @@
         <Image width="55px" src="https://www.bing.com/th?id=OIP.ZYBoGvR_bfdiAQLZZpVHQAHaFj&w=288&h=216&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2" alt="email"></Image>
         </a>
             <div >
-              <div textAlign='center' margin='auto' >
+              <div >
            <div >
            <h2 padding='20px'>Frontend </h2>
            <button>
          <img width="50px" src="https://www.bing.com/th?id=OSK.ba13f442edde2a689da52b7784617c05&w=188&h=132&c=7&o=6&dpr=1.3&pid=SANGAM"  alt="react" srcset="" />
         </button>
         <button   >
-          <img width="50px" src="https://www.bing.com/th?id=OSK.1d38bd7bfd244a573a3170a3f753c900&w=188&h=132&c=7&o=6&dpr=1.3&pid=SANGAM"  alt="react"  />
+          <img width="50px" src="https://www.bing.com/th?id=OSK.1d38bd7bfd244a573a3170a3f753c900&w=188&h=132&c=7&o=6&dpr=1.3&pid=SANGAM"  alt="redux"  />
           </button>
           <button >       
-          <img width="50px" src="https://www.bing.com/th?id=OSK.7725c07a837e7c19288888aefb937d35&w=188&h=132&c=7&o=6&dpr=1.3&pid=SANGAM"  alt="react" />
+          <img width="50px" src="https://www.bing.com/th?id=OSK.7725c07a837e7c19288888aefb937d35&w=188&h=132&c=7&o=6&dpr=1.3&pid=SANGAM"  alt="next" />
           </button> <button   >         
-          <img width="50px" src="https://static.javatpoint.com/images/javascript/javascript_logo.png"  alt="javascript" srcset="" />
+          <img width="50px" height="35px" src="https://static.javatpoint.com/images/javascript/javascript_logo.png"  alt="javascript" srcset="" />
           </button> <button >        
-        <img width="50px" src="https://www.bing.com/th?id=OSK.ad0ecb359ba825ee4ee36a258cd082a9&w=148&h=148&c=7&o=6&dpr=1.3&pid=SANGAM"  alt="typescript" srcset="" />
+        <img width="50px" height="35px" src="https://www.bing.com/th?id=OSK.ad0ecb359ba825ee4ee36a258cd082a9&w=148&h=148&c=7&o=6&dpr=1.3&pid=SANGAM"  alt="typescript" srcset="" />
         </button>
         <button   >     
-          <img width="50px"  src="https://www.bing.com/th?id=OSK.245a0c598c9232fbf3012ded3336f4c4&w=148&h=148&c=7&o=6&dpr=1.3&pid=SANGAM"  alt="react" srcset="" />
+          <img width="50px" height="35px"  src="https://www.bing.com/th?id=OSK.245a0c598c9232fbf3012ded3336f4c4&w=148&h=148&c=7&o=6&dpr=1.3&pid=SANGAM"  alt="html" srcset="" />
           </button>
           <button    >         
-          <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/180px-CSS3_logo_and_wordmark.svg.png"  alt="css" srcset="" />
+          <img width="50px" height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/180px-CSS3_logo_and_wordmark.svg.png"  alt="css" srcset="" />
           </button>
            </div>        
            <h3 >Backend</h3> 
         <button          > 
-          <img width="70px" src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/07/express-logo-528x240.png"  alt="express" srcset="" />
+          <img width="70px" height="35px" src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/07/express-logo-528x240.png"  alt="express" srcset="" />
           </button>
            <button > 
          <img width="50px" src="https://www.bing.com/th?id=OSK.5bf4de34d8317d399f0d701027322bbc&w=188&h=132&c=7&o=6&dpr=1.3&pid=SANGAM"  alt="react" srcset="" />
