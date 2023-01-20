@@ -11,7 +11,6 @@
         <Image width="55px" src="https://www.bing.com/th?id=OIP.ZYBoGvR_bfdiAQLZZpVHQAHaFj&w=288&h=216&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2" alt="email"></Image>
         </a>
             <div >
-    https://mhdsadique.github.io/
               <div >
            <div >
            <h2 padding='20px'>Frontend </h2>
