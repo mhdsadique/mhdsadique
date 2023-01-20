@@ -10,6 +10,7 @@
       <a href="mailto:mhdsadique8@gmail.com">
         <Image width="55px" src="https://www.bing.com/th?id=OIP.ZYBoGvR_bfdiAQLZZpVHQAHaFj&w=288&h=216&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2" alt="email"></Image>
         </a>
+        https://mhdsadique.github.io/
             <div >
               <div >
            <div >
@@ -67,12 +68,6 @@
         <img  width="50px" height="50px" src="https://www.bing.com/th?id=OSK.9fdede4794d05f5eec77fbad77985638&w=188&h=132&c=7&o=6&dpr=1.3&pid=SANGAM"  alt="react" srcset="" />
         </button>
               </div>
-          <GitHubCalendar
-        username="mhdsadique"
-        blockSize={20}
-        fontSize={20}>
-         <ReactTooltip delayShow={20} html /> 
-      </GitHubCalendar>
             </div>      
 <!-- **mhdsadique/mhdsadique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
