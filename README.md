@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h3>I'm Muhammed Sadique</h3>
 <h3>Enthusiastic Full Stack Web Developer</h3>
-   <img src='https://i1.wp.com/hungary.wherefor.org/wp-content/uploads/2018/07/digital-software-development.gif?fit=705%2C446&ssl=1' alt='animation'></img>
+   <img src='https://devtechnosys.com/insights/wp-content/uploads/2021/07/full-stack-development.gif' alt='animation'></img>
    <br/>
    <h3 margin="auto" padding='30px'>Contact Me</h3>
         <a href="https://www.linkedin.com/in/muhammed-sadique-064385230/">
