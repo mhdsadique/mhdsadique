@@ -1,6 +1,7 @@
 ### Hi there 👋
 <h3>I'm Muhammed Sadique</h3>
 <h3>Enthusiastic Full Stack Web Developer</h3>
+<h4>I am a Full stack web developer doing militry style coding and learning MERN Stack at Masai School. I have done various group as well as individual projects in my coding journey.</h4>
    <img src='https://devtechnosys.com/insights/wp-content/uploads/2021/07/full-stack-development.gif' alt='animation'></img>
    <br/>
    <h3 margin="auto" padding='30px'>Contact Me</h3>
