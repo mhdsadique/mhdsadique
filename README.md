@@ -68,7 +68,7 @@
         <img  width="50px" height="50px" src="https://www.bing.com/th?id=OSK.9fdede4794d05f5eec77fbad77985638&w=188&h=132&c=7&o=6&dpr=1.3&pid=SANGAM"  alt="react" srcset="" />
         </button>
               </div>
-     <GitHubCalendar username="mhdsadique" <ReactTooltip delayShow={20} html />  </GitHubCalendar>
+     <GitHubCalendar username="mhdsadique"   blockSize={20} fontSize={20}> <ReactTooltip delayShow={20} html />  </GitHubCalendar>
       <img  align="left" src="https://github-readme-stats.vercel.app/api?username=mhdsadique&count_private=true&show_icons=true" />
      <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdsadique"/> 
      <img  align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mhdsadique"/>
